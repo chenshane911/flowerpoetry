@@ -35,11 +35,20 @@ h6 {
   color: #2f2f2f;
   font-weight: 300; }
 
-p {
+et {
+
   color: #565656;
+  font-size: 29px;
+  line-height: 2;
+  font-weight: 900;
+
+}
+
+p {
+  color: #007bff;
   font-size: 15px;
   line-height: 2;
-  font-weight: 100; }
+  font-weight: 900; }
 
 a {
   -webkit-transition-duration: 500ms;
