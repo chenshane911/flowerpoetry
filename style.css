@@ -24,7 +24,11 @@
   padding: 0; }
 
 body {
-  font-family: "Roboto", sans-serif; }
+  background-image: url("dots.png");
+  background-repeat: repeat;
+  background-color: #fcfcfc ;
+
+}
 
 h1,
 h2,
